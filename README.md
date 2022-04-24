@@ -8,28 +8,34 @@ This analysis focuses on the US reviews for video games.
 ## Results
 ### Total number of reviews
 - Vine reviews 
-    <img src="https://user-images.githubusercontent.com/68669675/99216761-18d62180-279c-11eb-9190-f5af7b8039ad.png"> 
+
+<img src="https://user-images.githubusercontent.com/68669675/99216761-18d62180-279c-11eb-9190-f5af7b8039ad.png"> 
 
 
 - Non-Vine reviews 
-    <img src="https://user-images.githubusercontent.com/68669675/99216760-17a4f480-279c-11eb-87a8-733eb08893d7.png"> 
+
+<img src="https://user-images.githubusercontent.com/68669675/99216760-17a4f480-279c-11eb-87a8-733eb08893d7.png"> 
 
 
 ### Total number of 5-star reviews
 - Vine reviews 
-    <img src="https://user-images.githubusercontent.com/68669675/99217107-e678f400-279c-11eb-9523-a2f5ef938070.png"> 
+
+<img src="https://user-images.githubusercontent.com/68669675/99217107-e678f400-279c-11eb-9523-a2f5ef938070.png"> 
 
 
-- Non-Vine reviews 
-    <img src="https://user-images.githubusercontent.com/68669675/99217109-e7118a80-279c-11eb-93e8-4ea595a723e2.png"> 
+- Non-Vine reviews
+
+<img src="https://user-images.githubusercontent.com/68669675/99217109-e7118a80-279c-11eb-93e8-4ea595a723e2.png"> 
     
 
 ### Percentage of 5-star reviews
 - Vine reviews 
-    <img src="https://user-images.githubusercontent.com/68669675/99217345-77e86600-279d-11eb-89ce-5704117874da.png"> 
+
+<img src="https://user-images.githubusercontent.com/68669675/99217345-77e86600-279d-11eb-89ce-5704117874da.png"> 
 
 - Non-Vine reviews 
-    <img src="https://user-images.githubusercontent.com/68669675/99217349-79199300-279d-11eb-826d-18001d7e6b68.png"> 
+
+<img src="https://user-images.githubusercontent.com/68669675/99217349-79199300-279d-11eb-826d-18001d7e6b68.png"> 
 
 
 ## Summary
